@@ -1,0 +1,31 @@
+Establecedores de solo inicialización
+
+
+Los establecedores de solo inicialización proporcionan una sintaxis coherente para
+inicializar los miembros de un objeto. Los inicializadores de propiedades indican con
+claridad qué valor establece cada propiedad. El inconveniente es que esas propiedades
+se deben establecer. A partir de C# 9.0, puede crear descriptores de acceso init en
+lugar de descriptores de acceso set para propiedades e indizadores. Los autores de la
+llamada pueden usar la sintaxis de inicializador de propiedad para establecer estos
+valores en expresiones de creación, pero esas propiedades son de solo lectura una vez
+que se ha completado la construcción. Los establecedores de solo inicialización
+proporcionan una ventana para cambiar el estado, que se cierra cuando finaliza la fase
+de construcción. La fase de construcción finaliza de forma eficaz después de que se
+ Console.WriteLine(teacher == student); // output: False
+ Student student2 = new Student("Nancy", "Davolio", 3);
+ Console.WriteLine(student2 == student); // output: True
+}
+public abstract record Person(string FirstName, string LastName);
+public record Teacher(string FirstName, string LastName, int Grade)
+ : Person(FirstName, LastName);
+public record Student(string FirstName, string LastName, int Grade)
+ : Person(FirstName, LastName);
+public static void Main()
+{
+ Person teacher = new Teacher("Nancy", "Davolio", 3);
+ Console.WriteLine(teacher);
+ // output: Teacher { FirstName = Nancy, LastName = Davolio, Grade = 3 }
+}
+Establecedores de solo inicialización
+complete toda la inicialización, incluidos los inicializadores de propiedades y las
+expresiones with
