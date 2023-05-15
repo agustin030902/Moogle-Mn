@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MoogleEngine/1.0.0": {
+        "dependencies": {
+          "Matrices": "1.0.0"
+        },
+        "runtime": {
+          "MoogleEngine.dll": {}
+        }
+      },
+      "Matrices/1.0.0": {
+        "runtime": {
+          "Matrices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoogleEngine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Matrices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

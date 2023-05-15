@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Matrices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Matrices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Matrices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matrices/1.0.0": {
+      "type": "project",
+      "path": "../Matrices/Matrices.csproj",
+      "msbuildProject": "../Matrices/Matrices.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Matrices >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\agust\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Moogle!\\MoogleEngine\\MoogleEngine.csproj",
+      "projectName": "MoogleEngine",
+      "projectPath": "E:\\Moogle!\\MoogleEngine\\MoogleEngine.csproj",
+      "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
+      "outputPath": "E:\\Moogle!\\MoogleEngine\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\Moogle!\\Matrices\\Matrices.csproj": {
+              "projectPath": "E:\\Moogle!\\Matrices\\Matrices.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

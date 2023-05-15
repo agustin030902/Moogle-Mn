@@ -1,0 +1,24 @@
+D:\Escuela\Primer año\Programacion__!!\Proyecto pro\Matrices\bin\Debug\net6.0\Matrices.deps.json
+D:\Escuela\Primer año\Programacion__!!\Proyecto pro\Matrices\bin\Debug\net6.0\Matrices.dll
+D:\Escuela\Primer año\Programacion__!!\Proyecto pro\Matrices\bin\Debug\net6.0\ref\Matrices.dll
+D:\Escuela\Primer año\Programacion__!!\Proyecto pro\Matrices\bin\Debug\net6.0\Matrices.pdb
+D:\Escuela\Primer año\Programacion__!!\Proyecto pro\Matrices\obj\Debug\net6.0\Matrices.csproj.AssemblyReference.cache
+D:\Escuela\Primer año\Programacion__!!\Proyecto pro\Matrices\obj\Debug\net6.0\Matrices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escuela\Primer año\Programacion__!!\Proyecto pro\Matrices\obj\Debug\net6.0\Matrices.AssemblyInfoInputs.cache
+D:\Escuela\Primer año\Programacion__!!\Proyecto pro\Matrices\obj\Debug\net6.0\Matrices.AssemblyInfo.cs
+D:\Escuela\Primer año\Programacion__!!\Proyecto pro\Matrices\obj\Debug\net6.0\Matrices.csproj.CoreCompileInputs.cache
+D:\Escuela\Primer año\Programacion__!!\Proyecto pro\Matrices\obj\Debug\net6.0\Matrices.dll
+D:\Escuela\Primer año\Programacion__!!\Proyecto pro\Matrices\obj\Debug\net6.0\ref\Matrices.dll
+D:\Escuela\Primer año\Programacion__!!\Proyecto pro\Matrices\obj\Debug\net6.0\Matrices.pdb
+E:\Proyecto pro\Matrices\bin\Debug\net6.0\Matrices.deps.json
+E:\Proyecto pro\Matrices\bin\Debug\net6.0\Matrices.dll
+E:\Proyecto pro\Matrices\bin\Debug\net6.0\ref\Matrices.dll
+E:\Proyecto pro\Matrices\bin\Debug\net6.0\Matrices.pdb
+E:\Proyecto pro\Matrices\obj\Debug\net6.0\Matrices.csproj.AssemblyReference.cache
+E:\Proyecto pro\Matrices\obj\Debug\net6.0\Matrices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyecto pro\Matrices\obj\Debug\net6.0\Matrices.AssemblyInfoInputs.cache
+E:\Proyecto pro\Matrices\obj\Debug\net6.0\Matrices.AssemblyInfo.cs
+E:\Proyecto pro\Matrices\obj\Debug\net6.0\Matrices.csproj.CoreCompileInputs.cache
+E:\Proyecto pro\Matrices\obj\Debug\net6.0\Matrices.dll
+E:\Proyecto pro\Matrices\obj\Debug\net6.0\ref\Matrices.dll
+E:\Proyecto pro\Matrices\obj\Debug\net6.0\Matrices.pdb
